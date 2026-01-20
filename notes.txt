@@ -1,0 +1,2 @@
+After exporting from Blender, edit all .obj files in a text editor and update the file paths.
+In Skyleader_cockpit_OUT.obj, set a relative path to objects/inside.png.
